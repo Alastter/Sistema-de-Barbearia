@@ -1,0 +1,123 @@
+.fundo{
+	background-color: #363636;
+}
+
+/* .serv{
+	color: white;
+	font-size: 16px;
+  padding: 0px;
+} */
+.hr{
+	color: white;
+	font-size: 16px;
+}
+.serv p{
+	color: white;
+}
+.hr p{
+	color: white;
+}
+#bab{
+  color: white;
+}
+
+.barra2{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.barra2 li{
+  float: left;
+}
+.barra2 li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 0px solid transparent;
+}
+
+.invalido{
+  background-color: red; 
+  border-style: solid; 
+  border-color: black;
+  border: solid;
+  border-radius: 20px;
+}
+body{
+  background:url("../imagem/foto3.png")no-repeat;
+  background-clip: cover;
+  height: 100vh;
+  background-position: left;
+}
+#tcor{
+  color:white;
+}
+.letra{
+  font-size: 16px;
+  font-family: 'raleway', sans-serif;
+}
+.se1{
+  margin: auto;
+  padding: 0px;
+  border: solid;
+  border-radius: 5px white;
+  width: 155px;
+  border-width:5px;
+  border-radius: 5px;
+  border-color: white;
+  height:29px;
+}
+.se2{
+  margin: auto;
+  padding: 0px;
+  border: solid;
+  border-radius: 5px white;
+  width: 153px;
+  border-width:5px;
+  border-radius: 5px;
+  border-color: white;
+  height:28px;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.table{
+  border-collapse: collapse;
+}
+#custo{
+  background-color: blue;
+  color: white;
+}
+.fund{
+  /* background-color: red; */
+  width: 50%;
+  float: left;
+  font-size: 20px;
+  font-family: 'raleway', sans-serif;
+}
+.fund2{
+  /* background-color: seagreen; */
+  width: 50%; 
+  float: left; 
+  font-size: 20px;
+  font-family: 'raleway', sans-serif;
+}
+.mensagem{
+  font-family: Verdana, sans-serif;
+}
+.user{
+  background-color: #7FFFD4;
+  border: solid;
+  border-radius: 3px;
+  border-color: seagreen;
+}

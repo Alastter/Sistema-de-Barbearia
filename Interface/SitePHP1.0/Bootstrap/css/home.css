@@ -1,0 +1,43 @@
+.s{
+    background-color: red;
+    /* border: solid;
+    border-radius: 5px; */
+    border-color: green;
+    /* width: 800px; */
+    margin: auto;
+    margin-bottom: 0%;
+}
+
+.start{
+    height:150px;
+    font-family: "Lato", sans-serif;
+    color: white;
+}
+.classe1{
+    width: 100%;
+    height: 172px;
+    float: left;
+}
+.imgg{
+    width: 350px;
+    /* border: solid; */
+    margin: auto;
+    color: white;
+
+}
+.classe2 p{
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.classe3 p{
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.classe1 p{
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.ii{
+    margin: auto;
+    width: 155px;
+}
